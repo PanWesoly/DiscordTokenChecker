@@ -1,0 +1,95 @@
+[CENTER][SIZE=7][COLOR=#5865F2][B]⚡ DISCORD TOKEN CHECKER ⚡[/B][/COLOR][/SIZE]
+[SIZE=4][COLOR=#B5BAC1]by [B]pierdas[/B] • [COLOR=#5865F2]v1.2.0[/COLOR] • .NET 8 WPF • win-x64[/COLOR][/SIZE][/CENTER]
+
+[HR][/HR]
+
+[SIZE=5][B][COLOR=#5865F2]🔍 FEATURES[/COLOR][/B][/SIZE]
+
+[COLOR=#57F287][B]⚡ Multi-Threaded[/B][/COLOR] [COLOR=#B5BAC1]— up to 100 threads, slider-controlled[/COLOR]
+[COLOR=#57F287][B]🌐 Proxy Support[/B][/COLOR] [COLOR=#B5BAC1]— [ICODE]IP:PORT[/ICODE] / [ICODE]IP:PORT:USER:PASS[/ICODE] with auto rotation. Proxyless if empty[/COLOR]
+[COLOR=#57F287][B]💎 Full Token Info[/B][/COLOR] [COLOR=#B5BAC1]— Username, Email, Phone, Nitro, 2FA, Verified, Locale, Connected Accounts, Payment[/COLOR]
+[COLOR=#57F287][B]📋 Result Tabs[/B][/COLOR] [COLOR=#B5BAC1]— filter by [COLOR=#57F287]Valid[/COLOR] / [COLOR=#ED4245]Invalid[/COLOR] / [COLOR=#FEE75C]Errors[/COLOR] / All in real time[/COLOR]
+[COLOR=#57F287][B]📢 Discord Webhook[/B][/COLOR] [COLOR=#B5BAC1]— rich blurple embed with all details sent on every valid hit[/COLOR]
+[COLOR=#57F287][B]✈️ Telegram Bot[/B][/COLOR] [COLOR=#B5BAC1]— formatted HTML message sent on every valid hit[/COLOR]
+[COLOR=#57F287][B]💾 Export[/B][/COLOR] [COLOR=#B5BAC1]— export hits or all results to .txt with one click[/COLOR]
+[COLOR=#57F287][B]🖥️ Discord Theme GUI[/B][/COLOR] [COLOR=#B5BAC1]— glowing blurple slider, slim dark scrollbars, Discord color palette[/COLOR]
+[COLOR=#57F287][B]📦 Standalone .exe[/B][/COLOR] [COLOR=#B5BAC1]— self-contained, no .NET runtime needed[/COLOR]
+
+[HR][/HR]
+
+[SIZE=5][B][COLOR=#5865F2]💡 HOW TO USE[/COLOR][/B][/SIZE]
+
+[LIST=1]
+[*][COLOR=#B5BAC1]Load token list [COLOR=#6D6F78](.txt — one per line)[/COLOR][/COLOR]
+[*][COLOR=#B5BAC1]Load proxies [COLOR=#6D6F78]([ICODE]IP:PORT[/ICODE] or [ICODE]IP:PORT:USER:PASS[/ICODE] — leave empty for proxyless)[/COLOR][/COLOR]
+[*][COLOR=#B5BAC1]Set thread count [COLOR=#6D6F78](1–100)[/COLOR][/COLOR]
+[*][COLOR=#B5BAC1]Optional: paste Discord Webhook URL and/or Telegram Bot Token + Chat ID[/COLOR]
+[*][COLOR=#B5BAC1]Hit [B][COLOR=#5865F2]▶ Start Checking[/COLOR][/B] — results appear live[/COLOR]
+[*][COLOR=#B5BAC1]Switch tabs to filter — export when done[/COLOR]
+[/LIST]
+
+[HR][/HR]
+
+[SIZE=5][B][COLOR=#5865F2]📡 CAPTURED INFO[/COLOR][/B][/SIZE]
+
+[CODE]
+👤 Username       📧 Email          📱 Phone
+💎 Nitro Type     📅 Nitro Since    🌍 Locale
+✅ Verified       🔒 2FA Enabled    🔗 Connected Accounts
+💳 Payment Info   🔑 Full Token
+[/CODE]
+
+[HR][/HR]
+
+[SIZE=5][B][COLOR=#5865F2]🖼️ SCREENSHOTS[/COLOR][/B][/SIZE]
+
+[SPOILER="Click to view"]
+attach screenshots here
+[/SPOILER]
+
+[HR][/HR]
+
+[SIZE=5][B][COLOR=#5865F2]📝 CHANGELOG[/COLOR][/B][/SIZE]
+
+[SPOILER="v1.2.0 — Latest"]
+[COLOR=#57F287][B]Added[/B][/COLOR]
+[LIST]
+[*]Proxy support — IP:PORT / IP:PORT:USER:PASS, auto rotating
+[*]Proxyless fallback (no proxies = direct connection)
+[*]All / Valid / Invalid / Errors result tabs
+[*]Discord Webhook rich embed notifications
+[*]Telegram Bot HTML notifications
+[*]NOTIFICATIONS panel in sidebar
+[*]Custom glow slider + slim dark scrollbars
+[/LIST]
+[/SPOILER]
+
+[SPOILER="v1.1.0"]
+[COLOR=#57F287][B]Added[/B][/COLOR]
+[LIST]
+[*]Multi-threaded engine (up to 100 threads)
+[*]Live stats: Valid / Invalid / Errors / CPM
+[*]Progress bar with checked/total counter
+[*]Export Hits and Export All to .txt
+[*]Full Discord dark theme GUI
+[/LIST]
+[/SPOILER]
+
+[SPOILER="v1.0.0"]
+[COLOR=#57F287][B]Added[/B][/COLOR]
+[LIST]
+[*]Initial release — Discord Token Checker .NET 8 WPF
+[/LIST]
+[/SPOILER]
+
+[HR][/HR]
+
+[SIZE=5][B][COLOR=#5865F2]⬇️ DOWNLOAD[/COLOR][/B][/SIZE]
+
+[LIST]
+[*][B]VirusTotal:[/B] attach scan
+[*][B]Download:[/B] attach file
+[/LIST]
+
+[HR][/HR]
+[SIZE=3][COLOR=#B5BAC1]Discord Token Checker [COLOR=#5865F2][B]v1.2.0[/B][/COLOR] • by [B]pierdas[/B] • .NET 8 WPF[/COLOR][/SIZE]
